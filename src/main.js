@@ -8,4 +8,4 @@ const { initStore } = todoStore;
 
 initStore();
 
-app('#app');
+app('#app'); 
